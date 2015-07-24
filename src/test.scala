@@ -5,4 +5,5 @@
  */
 object test {
   //test
+  val x =123
 }
